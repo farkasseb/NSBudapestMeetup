@@ -20,6 +20,10 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 ## Past events
 
+### 2019
+
+- [x] [October](Presentations/2019/October/October.md)
+
 ### 2018
 
 - [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/2018/January/January.md)
